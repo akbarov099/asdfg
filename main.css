@@ -1,0 +1,25 @@
+.box1 {
+  width: 400px;
+  height: 400px;
+  background: red;
+}
+
+.box2 {
+  width: 400px;
+  height: 400px;
+  background: blue;
+}
+
+.box3 {
+  width: 400px;
+  height: 400px;
+  background: green;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+ flex-wrap: wrap-reverse;
+
+}
